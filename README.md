@@ -1,4 +1,4 @@
-```markdown
+
 # Background Removal and Replacement App  
 
 A simple **Streamlit-based web application** that allows users to **remove the background** from an uploaded image and replace it with different backgrounds from a predefined folder.
