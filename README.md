@@ -11,12 +11,15 @@ A simple **Streamlit-based web application** that allows users to **remove the b
 - Overlay the processed image on the chosen background  
 - Download the final image  
 
+## Demo  
+![Demo](https://github.com/saadtariq10/Background-Removal-and-Replacement-App/blob/main/postman-bg-remove.gif)  
+
 ## Installation  
 
 1. Clone this repository:  
    ```sh
-   git clone https://github.com/yourusername/background-removal-app.git
-   cd background-removal-app
+   git clone https://github.com/saadtariq10/Background-Removal-and-Replacement-App.git
+   cd Background-Removal-and-Replacement-App
    ```
 2. Install dependencies:  
    ```sh
@@ -24,7 +27,7 @@ A simple **Streamlit-based web application** that allows users to **remove the b
    ```
 3. Run the app:  
    ```sh
-   streamlit run app.py
+   streamlit run streamlit.py
    ```
    
 ## Requirements  
@@ -32,6 +35,7 @@ A simple **Streamlit-based web application** that allows users to **remove the b
 - Streamlit  
 - rembg  
 - Pillow  
+
 
 
 ## Usage  
@@ -46,5 +50,3 @@ This project is open-source and free to use.
 ---
 Made with ❤️ using Python and Streamlit.
 ```
-
----
